@@ -10,7 +10,7 @@ public class Main {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		String input = in.readLine();
 		in.close();
-		
+		System.out.println();
 	}
 
 }
